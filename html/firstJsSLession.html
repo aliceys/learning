@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    三种书写js的方式
+
+    一种：
+    script 标签中写js
+    <script>
+    alert('in html')
+    </script>
+
+    第二种：
+    script src 引入
+    <script src="../js/jslession1.js"></script>
+
+    css : link href="xxxx.css"
+
+
+    第三种：
+
+    <div onclick="aaa()">123</div>
+    <script>
+    function aaa(){
+        document.body.style.background = 'yellow'
+    }
+    </script> 
+
+    css: <div style="background:red"></div>
+
+
+    javascript 从上往下执行
+
+    一行一行，中间如果断掉了 就断掉了
+    中间如果停了要等停完了才继续
+    javascript 是 阻塞 的，同步执行的，阻塞页面点击和渲染
+    JavaScript 是 单线程 的
+    可以让同步执行的变成异步执行，隔一段时间再执行 中间就不会阻塞页面的点击和渲染
+    js 执行的特别快
+
+
+
+</body>
+</html>
