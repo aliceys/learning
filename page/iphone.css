@@ -1,0 +1,166 @@
+.partone {
+    overflow: hidden;
+    margin-top: 10px;
+    
+}
+
+.back {
+    float: left;
+    width: 15px;
+    height: 20px;
+    margin-left: 15px;
+}
+
+.fav {
+    float: right;
+    width: 18px;
+    height: 20px;
+    margin-right: 15px;
+}
+
+.title {
+    overflow: hidden;
+    font-size: 16px;
+    text-align: center;
+}
+
+.border {
+    border: 1px solid #f0f0f0;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 70px;
+    margin-top: 27px;
+    line-height: 35px;
+    margin-bottom: 35px;
+}
+
+.name {
+    margin-left: 20px;
+    font-size: 12px;
+    color: #838383;
+    margin-bottom: 25px;
+}
+
+.answer {
+    margin-left: 20px;
+    margin-right: 35px;
+    font-size: 16px;
+    color: #313131;
+    line-height: 35px;
+    margin-bottom: 30px;
+}
+
+.center {
+    overflow: hidden;
+}
+
+.left {
+    float: left;
+    width: 156px;
+    border: 1px solid #f0f0f0;
+    margin-left: 20px;
+    margin-right: 33px;
+}
+
+.right {
+    float: right;
+    width: 156px;
+    border: 1px solid #f0f0f0;
+    margin-left: 20px;
+    margin-right: 33px;
+}
+
+.point {
+    overflow: hidden;
+    width: 5px;
+    height: 5px;
+    border-radius: 2px;
+    background: #f0f0f0;
+    margin: 0 auto;
+}
+
+.partthree {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    background: #fbfbfb;
+    height: 50px;
+    width: 100%;
+}
+
+.comment {
+    float: left;
+    width: 141px;
+    height: 33px;
+    border: 1px solid #f0f0f0;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.one {
+    position: relative;
+    float: right;
+    width: 40px;
+    height: 40px;
+    margin-left:5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.love {
+    width: 20px;
+    height: 15px;
+}
+
+.pointone {
+    position: absolute;
+    
+    font-size: 12px;
+    color: #f0f0f0;
+    right: 2px;
+    top: -8px;
+}
+
+.two {
+    position: relative;
+    float: right;
+    margin-left: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+    width: 40px;
+    height: 40px;
+}
+
+.commentphoto {
+
+    width: 20px;
+    height: 15px;
+}
+
+.pointtwo {
+    position: absolute;
+    font-size: 12px;
+    color: #f0f0f0;
+    right: 2px ;
+    top: -8px ;
+}
+
+.share {
+    float: right;
+    width: 15px;
+    height: 20px;
+    margin-right: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
