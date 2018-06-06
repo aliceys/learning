@@ -1,0 +1,66 @@
+.partthree {
+    position: fixed;
+    background: #fbfbfb;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+
+.comment {
+    float: left;
+    width: 140px;
+    height: 34px;
+    border: 1px solid #f0f0f0;
+    border-radius: 2px;
+    background: #ffffff;
+    margin:8px 20px;
+}
+
+.one {
+    position: relative;
+    float:right;
+    width: 40px;
+    height: 40px;
+    margin:15px 0px 15px 25px;
+}
+
+.love {
+    width: 20px;
+    height:15px;
+}
+
+.numberone {
+    position: absolute;
+    font-size: 12px;
+    right:1px;
+    top:-6px;
+    color:#a7a7a7;
+}
+
+.two {
+    position: relative;
+    float: right;
+    width: 40px;
+    height: 40px;
+    margin:15px 0px 15px 25px;
+}
+
+.commentphoto {
+    width: 20px;
+    height:15px;
+}
+
+.numbertwo {
+    position: absolute;
+    font-size: 12px;
+    right:1px;
+    top:-6px;
+    color:#a7a7a7;
+}
+.share{
+    float: right;
+    width: 15px;
+    height:20px;
+    margin:12px 20px 15px 25px;
+}
